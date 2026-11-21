@@ -1,4 +1,4 @@
-# Segmentação e Análise Morfológica da Árvore Vascular da Retina
+# Segmentação e Análise Morfológica dos Vasos da Retina
 
 Projeto prático desenvolvido para a disciplina de **Processamento Digital de Imagens (PDI)**, focado na extração, segmentação e quantificação morfológica de vasos sanguíneos em imagens de fundo de olho utilizando **exclusivamente técnicas clássicas de processamento de imagens** (sem uso de redes neurais).
 
