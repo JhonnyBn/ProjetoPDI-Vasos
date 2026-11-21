@@ -64,7 +64,7 @@ pip install numpy scipy scikit-image opencv-python-headless pandas matplotlib pi
 
 5. Ao final da execução, os resultados serão exportados automaticamente para o diretório `/resultados`:
 
-   * `/resultados/tabelas/*.csv`: Métricas detalhadas, testes de Wilcoxon e sensibilidade.
+   * `/resultados/tabelas/*.csv`: Métricas detalhadas.
    * `/resultados/figuras/*.png`: Painéis comparativos dos melhores e piores casos e mapas de erro.
    * `/resultados/parametros_finais.json`: Hiperparâmetros ótimos congelados.
 
